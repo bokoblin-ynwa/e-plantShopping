@@ -230,7 +230,7 @@ function ProductList() {
           name: "Cast Iron Plant",
           image:
             "https://cdn.pixabay.com/photo/2017/02/16/18/04/cast-iron-plant-2072008_1280.jpg",
-          description: "Hardy plant that tolerates low light and neglect.",
+          description: "Hardy plant that tolerates low light and neglect. It's amazing!",
           cost: "$20",
         },
         {
